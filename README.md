@@ -53,7 +53,7 @@ I’m a dynamic and enthusiastic Computer Systems Engineer with a passion for bu
 
 - Successfully completed **AWS Cloud Virtual Internship** by AICTE-EduSkills (Oct–Dec 2024).
 - Developed and deployed multiple end-to-end ML pipelines with live UIs.
-- Consistently maintain strong academic performance with **8.58 CGPA** at KIIT.
+
 
 ---
 
