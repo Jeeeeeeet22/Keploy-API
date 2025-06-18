@@ -14,11 +14,11 @@ I’m a dynamic and enthusiastic Computer Systems Engineer with a passion for bu
 
 ## 🛠️ Skills
 
-- **Languages**: Java, Python, C, JavaScript  
+- **Programming Languages**: Java, Python, C, JavaScript  
 - **Web Technologies**: HTML, CSS, Bootstrap, React.js  
 - **Databases**: SQL, MySQL, MongoDB  
 - **Tools & Tech**: Git, VSCode, Streamlit, Scikit-learn, PySwarm  
-- **Cloud**: AWS (AICTE-EduSkills Virtual Internship)  
+- **Cloud**: AWS,Docker,Jenkins
 - **Soft Skills**: Communication, Project Oversight, Team Collaboration
 
 ---
